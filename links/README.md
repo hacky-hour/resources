@@ -16,6 +16,9 @@ A list of links to useful resources.
 [Color cheatsheet for R](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf)  
 [Faceting in ggplot2](http://www.cookbook-r.com/Graphs/Facets_(ggplot2)/): Facets in ggplot allow you to plot data relative to the levels of 1-2 variables.    
 
+### Importing files
+[Excel to R](http://www.thertrader.com/2014/02/11/a-million-ways-to-connect-r-and-excel/): Sometimes you just have to deal with Bill Gates
+
 ***
 ### HPCC
 [Instructions for submitting jobs to the HPCC](https://github.com/lxwrght/HPCC-template/blob/master/HPCC_Instructions)    
