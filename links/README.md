@@ -3,7 +3,7 @@ A list of links to useful resources.
 
 ### Markdown
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)  
-[Markdwon syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+[Markdown syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ***
 ### R
