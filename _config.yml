@@ -1,2 +1,4 @@
 name: MSU Hacky-Hour Resources
 markdown: kramdown
+
+theme: jekyll-theme-slate
