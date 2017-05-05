@@ -14,5 +14,5 @@ Subfolder for code snippets and scripts. Some ideas for things to appear here ar
 * Shell scripts
 * etc. 
   
-##### Links
-Subfolder for links to useful websites.
+##### [Links](https://hacky-hour.github.io/Useful-Links/)
+Links to useful websites.
